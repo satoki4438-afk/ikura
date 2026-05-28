@@ -1,0 +1,8 @@
+{
+  "name": "ikura",
+  "version": "1.0.0",
+  "description": "離婚のお金診断",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
